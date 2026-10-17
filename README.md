@@ -324,4 +324,4 @@ Print da tela App:
 Obviamente, este aplicativo ainda precisa de ajustes caso eu pretenda vendê-lo ou divulgá-lo, mas a aula realmente esclareceu muitas coisas.
 
 link Github:
-
+https://github.com/Auriusaftha/dio-lab-vibe-coding-app-financas/blob/d99ec09be11df6be3828d850819ccfcaa5ec5216/README.md
